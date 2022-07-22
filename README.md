@@ -3,4 +3,4 @@ The restaurant's website was made using HTML and CSS and hosted on GitHub gh-pag
 
 <br><br>
 
-<a href="https://aditya423.github.io/ADITYA-S-RESTAURANT/" target="_blank">Website</a>
+[Website](https://aditya423.github.io/ADITYA-S-RESTAURANT/){:target="_blank"}
